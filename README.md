@@ -1,6 +1,10 @@
-# fitness
+👋 Hello 
 
-A new Flutter project.
+In this project, we are developing the graphical interface for an application designed to promote health and physical well-being.
+
+The project is being built with Flutter.
+
+🚧 This project is currently under construction.
 
 ## Getting Started
 
