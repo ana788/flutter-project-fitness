@@ -1,20 +1,18 @@
 👋 Hello 
 
-In this project, we are developing the graphical interface for an application designed to promote health and physical well-being.
+This project focuses on developing the graphical interface for an application’s main screen that promotes health and physical well-being.
 
 The project is being built with Flutter.
 
-🚧 This project is currently under construction.
+Check out the live project: https://flutter-project-fitness.vercel.app/
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+To run it locally, open your terminal and execute:
 
-A few resources to get you started if this is your first Flutter project:
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Then choose your preferred device when prompted: [1]: Windows
+[2]: Chrome
+[3]: Edge
